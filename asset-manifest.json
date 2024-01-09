@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e1dad78.css",
+    "main.js": "/static/js/main.6836325f.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/preloader.gif": "/static/media/preloader.cee8d327592f9e1c587c.gif",
+    "static/media/causal.png": "/static/media/causal.72117ac4ec4152da6dd6.png",
+    "static/media/avatar.jpg": "/static/media/avatar.23164b0bd7ea8c71f480.jpg",
+    "static/media/pslogo.png": "/static/media/pslogo.3ff4f3735b02c2b39aff.png",
+    "index.html": "/index.html",
+    "main.7e1dad78.css.map": "/static/css/main.7e1dad78.css.map",
+    "main.6836325f.js.map": "/static/js/main.6836325f.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1dad78.css",
+    "static/js/main.6836325f.js"
+  ]
+}
